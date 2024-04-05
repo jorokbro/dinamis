@@ -1,0 +1,17 @@
+header {
+    background-image: url('gambar/header.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    background-image: url('gambar/footer.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
