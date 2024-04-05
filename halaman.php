@@ -8,11 +8,11 @@
 </head>
 <body>
     <header>
-        <img src="gambar/header.jpg" alt="Header Gambar">
+        <img src="header.jpg" alt="Header Gambar">
     </header>
     <!-- Sisipkan gambar lainnya sesuai kebutuhan -->
     <footer>
-        <img src="gambar/footer.jpg" alt="Footer Gambar">
+        <img src="footer.jpg" alt="Footer Gambar">
     </footer>
 </body>
 </html>
